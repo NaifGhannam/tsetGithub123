@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\lastwebtaskw3d1.props" />
+</Project>
